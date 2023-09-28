@@ -1,0 +1,30 @@
+{
+    "data": [
+        [
+            "Entry Type",
+            "Branch name",
+            "Indian Airforce AFCAT Eligibility"
+        ],
+        [
+            "AFCAT Entry",
+            "Flying",
+            "Bachelor Degree in Any Stream with Physics and Mathematics at 10+2 Level / B.E / B.Tech Course"
+        ],
+        [
+            "AFCAT Entry",
+            "Ground Duty Technical",
+            "Aeronautical Engineering Electronics : 10+2 Intermediate Minimum 60% Marks in Physics and Math and Minimum 4 Year Graduation / Integrated PG Degree in Engineering / Technology\n\nAeronautical Engineering Mechanical : Candidates with Minimum 60% Marks Each in Physics and Mathematics at 10+2 Level and 4 Year Engineering / Technology Degree in Mechanical Engineering, Industrial Engineering, Aeronautical Engineering or Equivalent Degree"
+        ],
+        [
+            "AFCAT Entry",
+            "Administration and Logistics",
+            "Bachelor Degree in Any Stream with at Least Minimum  60% Marks\n\nPhysical Eligibility\nHeight Male : 157.5 CMS | Female : 152 CM"
+        ],
+
+        [
+            "AFCAT Entry",
+            "Accounts",
+            "Bachelor Degree in Commerce B.Com with at Least Minimum 60% Marks"
+        ]
+    ]
+}
